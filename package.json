@@ -1,0 +1,17 @@
+{
+  "name": "supergulp",
+  "version": "1.0.0",
+  "description": "A code lab to learn Gulp.",
+  "repository": "https://github.com/ultraviollette/nomad-coder-gulp.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/register": "^7.12.10",
+    "gulp": "^4.0.2"
+  }
+}
